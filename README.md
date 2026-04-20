@@ -16,7 +16,7 @@
   <tr>
     <td width="240" valign="middle" align="center">
       <!-- PLACEHOLDER: Replace src with the URL of your profile image (drag and drop into a GitHub issue/comment to get a hosted link, or use a path like ./assets/santi.jpg) -->
-      <img width="220" src="https://via.placeholder.com/220x220.png?text=Your+Photo+Here" alt="Santiago Dueñas" style="border-radius:50%;" />
+      <img width="220" src="https://github.com/user-attachments/assets/5a129cdd-9770-44cf-9100-2de6df5df528" alt="Santiago Dueñas" style="border-radius:50%;" />
     </td>
     <td width="700" valign="middle">
       I'm a data analyst with 3+ years of hands on experience turning messy data into clear, business ready answers. I started out as an aerospace engineer, and somewhere between the flight logs, sensor data, and spreadsheets I realized that data was running the entire show. Once I saw that pattern everywhere I looked, the pivot into analytics was the easiest call I've ever made.
