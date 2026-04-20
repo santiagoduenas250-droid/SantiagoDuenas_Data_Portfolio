@@ -107,5 +107,5 @@ Click any project title to jump straight into the full write up and dashboard.
 <br />
 
 <p align="center">
-  <em>Thanks for stopping by. If anything here sparks a question, my inbox is open.</em>
+  <em>If anything sparks a question, my inbox is open.</em>
 </p>
